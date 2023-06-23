@@ -1,0 +1,2 @@
+This is a simple react based app. 
+Where I have used fuctional based components. Here I have also used hooks and try to keep it simple by adding few functionalities by changing the state. I have also used props in this project. I have also kept a option of chaning the mode i.e, light and dark theme. Overall it's a simple project to showcase my understanding in react!!
